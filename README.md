@@ -2,6 +2,7 @@ Bạn là chú chim ở đang trong khu rừng huyền bí
 ![screenshot_1683989902](https://github.com/22021196-DoTrongBinh/FlappyBird/assets/125494223/4860e3cf-e52e-45bc-a82c-a625b0b75eb0)
 
 Nhiệm vụ của bạn là vượt qua các cột càng nhiều càng tốt, nhưng hãy cẩn thận vì chúng có thể di chuyển đấy
+
 Dùng phím SPACE hoặc phím đi lên hoặc click chuột vào màn hình để chú chim bay lên
 ![screenshot_1683989944](https://github.com/22021196-DoTrongBinh/FlappyBird/assets/125494223/056fb391-8747-4c7a-b734-901cfca999e7)
 
